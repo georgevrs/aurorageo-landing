@@ -99,7 +99,7 @@ const Index = () => {
                 variant="hero" 
                 size="lg" 
                 className="w-full md:w-auto text-lg px-12 py-6 animate-glow"
-                onClick={() => window.location.href = '/app'}
+                onClick={() => window.location.href = 'https://georgevrs.github.io/geo-mine-insight/download.html'}
               >
                 Launch AuroraGEO
               </Button>
